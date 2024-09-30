@@ -1,0 +1,14 @@
+/home/double/Desktop/Projects/ExerciciosCsharp/bin/Debug/net8.0/ExerciciosCsharp
+/home/double/Desktop/Projects/ExerciciosCsharp/bin/Debug/net8.0/ExerciciosCsharp.deps.json
+/home/double/Desktop/Projects/ExerciciosCsharp/bin/Debug/net8.0/ExerciciosCsharp.runtimeconfig.json
+/home/double/Desktop/Projects/ExerciciosCsharp/bin/Debug/net8.0/ExerciciosCsharp.dll
+/home/double/Desktop/Projects/ExerciciosCsharp/bin/Debug/net8.0/ExerciciosCsharp.pdb
+/home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.AssemblyInfoInputs.cache
+/home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.AssemblyInfo.cs
+/home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.csproj.CoreCompileInputs.cache
+/home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.dll
+/home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/refint/ExerciciosCsharp.dll
+/home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.pdb
+/home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.genruntimeconfig.cache
+/home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ref/ExerciciosCsharp.dll
