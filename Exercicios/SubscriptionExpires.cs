@@ -4,21 +4,21 @@ namespace ExerciciosCsharp.Exercicios;
 
 class SubscriptionExpires
 {
-    Random random = new Random();
-    int daysUntilExpiration;
-    int discountPercentage = 0;
+    static Random random = new Random();
+    static int daysUntilExpiration;
+    static int discountPercentage = 0;
 
     // Your code goes here
 
-    public void CheckSubscription()
+    public static void CheckSubscription()
     {
         daysUntilExpiration = random.Next(12);
 
-        if (daysUntilExpiration <= 10)
+        if (daysUntilExpiration <= 10 && daysUntilExpiration > 5)
         {
             Console.WriteLine($"Sua assinatura expira em {daysUntilExpiration} dias. Renove agora!");
         }
-        else if(daysUntilExpiration <=5)
+        else if(daysUntilExpiration <=5 && daysUntilExpiration > 1)
         {
             Console.WriteLine($"Sua assinatura expira em {daysUntilExpiration} dias! Renove agora e ganhe 10% de desconto!");
             discountPercentage = 10;

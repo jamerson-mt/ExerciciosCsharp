@@ -12,3 +12,4 @@
 /home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.pdb
 /home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.genruntimeconfig.cache
 /home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ref/ExerciciosCsharp.dll
+/home/double/Desktop/Projects/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.sourcelink.json
